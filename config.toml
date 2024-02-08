@@ -51,7 +51,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-s
 
 [Music-Extended]
 app-name = "Music"
-patches-source = "inotia00/revanced-patches"
+patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
