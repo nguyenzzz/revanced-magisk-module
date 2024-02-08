@@ -31,7 +31,7 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 
 [Reddit]
-patches-source = "inotia00/revanced-patches"
+patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
