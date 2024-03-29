@@ -7,7 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "'Theme'"
+excluded-patches = "'Announcements' 'Theme'"
 included-patches = "'Change header'"
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
