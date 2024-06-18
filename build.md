@@ -1,7 +1,7 @@
-YouTube: 19.16.39  
 Music-Extended (arm64-v8a): 7.05.52  
 Music-Extended (arm-v7a): 7.05.52  
 YouTube-Extended: 19.21.40  
+YouTube: 19.16.39  
 Reddit-Extended: 2024.17.0  
 Twitch: 16.9.1  
 
