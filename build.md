@@ -1,8 +1,8 @@
-Music-Extended (arm64-v8a): 7.10.51  
 Music-Extended (arm-v7a): 7.10.51  
+Music-Extended (arm64-v8a): 7.10.51  
 YouTube: 19.16.39  
 YouTube-Extended: 19.16.39  
-YouTube-Extended-wo-MY: 19.16.39  
+YouTube-Extended-MaterialYou: 19.16.39  
 Twitch: 16.9.1  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
