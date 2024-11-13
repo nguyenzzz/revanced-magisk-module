@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
+excluded-patches = "'Theme'"
 included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
