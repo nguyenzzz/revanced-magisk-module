@@ -1,5 +1,7 @@
 Music (arm64-v8a): 7.29.51  
 Music (arm-v7a): 7.29.51  
+Photos (arm64-v8a): 7.9.0.700107295  
+Photos (arm-v7a): 7.9.0.700107295  
 Twitch: 16.9.1  
 YouTube: 19.46.42  
 
