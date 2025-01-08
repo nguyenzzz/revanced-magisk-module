@@ -38,7 +38,6 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 excluded-patches = "'Amoled' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 arch = "both"
-version = "7.25.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
