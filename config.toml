@@ -37,7 +37,6 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
 enabled = false
-enabled = true
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
