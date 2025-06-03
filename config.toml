@@ -7,7 +7,6 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-enabled = false
 build-mode = "both"
 excluded-patches = "'Theme'"
 included-patches = ""
@@ -18,7 +17,6 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
-enabled = false
 build-mode = "both"
 arch = "both"
 patches-version = "dev"
@@ -27,7 +25,6 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [GooglePhotos]
-enabled = false
 build-mode = "apk"
 arch = "both"
 version = "auto"
@@ -35,8 +32,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Spotify]
-enabled = false
 patches-source = "anddea/revanced-patches"
+rv-brand = "RVX"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
@@ -45,15 +42,16 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 enabled = true
 app-name = "Music"
 patches-source = "anddea/revanced-patches"
-rv-brand = "ReVanced Extended"
+rv-brand = "RVX"
 build-mode = "both"
 arch = "both"
+excluded-patches = "'Dark theme'"
 patches-version = "dev"
 version = "8.13.51"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-RVX]
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 rv-brand = "RVX"
