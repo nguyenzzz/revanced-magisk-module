@@ -17,6 +17,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
+enabled = false
 build-mode = "both"
 arch = "both"
 patches-version = "dev"
