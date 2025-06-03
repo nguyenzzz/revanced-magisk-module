@@ -35,6 +35,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Spotify]
 patches-source = "anddea/revanced-patches"
 rv-brand = "RVX"
+patches-version = "dev"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
