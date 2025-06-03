@@ -35,6 +35,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Spotify]
+enabled = false
 patches-source = "anddea/revanced-patches"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
@@ -44,10 +45,9 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 enabled = true
 app-name = "Music"
 patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-arch = "apk"
+arch = "both"
 patches-version = "dev"
 version = "8.13.51"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
