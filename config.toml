@@ -44,6 +44,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 enabled = true
 app-name = "Music"
 patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 arch = "both"
@@ -51,7 +52,7 @@ patches-version = "dev"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-RVX]
-enabled = true
+enabled = false
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 rv-brand = "RVX"
