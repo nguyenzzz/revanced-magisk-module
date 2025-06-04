@@ -57,7 +57,7 @@ rv-brand = "RVX"
 build-mode = "both"
 excluded-patches = "'Theme'"
 patches-version = "dev"
-version = "20.16.40"
+version = "20.15.40"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
