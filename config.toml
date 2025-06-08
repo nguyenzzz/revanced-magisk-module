@@ -46,7 +46,7 @@ build-mode = "both"
 arch = "both"
 excluded-patches = "'Dark theme'"
 patches-version = "dev"
-version = "8.14.54"
+version = "8.18.52"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-RVX]
@@ -57,7 +57,7 @@ rv-brand = "RVX"
 build-mode = "both"
 excluded-patches = "'Theme'"
 patches-version = "dev"
-version = "20.15.40"
+version = "20.21.37"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
