@@ -28,6 +28,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 [GooglePhotos]
 build-mode = "apk"
 arch = "both"
+included-patches = "'Enable DCIM folders backup control'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
