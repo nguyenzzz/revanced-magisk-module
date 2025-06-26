@@ -47,7 +47,7 @@ build-mode = "both"
 arch = "both"
 excluded-patches = "'Dark theme'"
 patches-version = "dev"
-version = "8.18.52"
+version = "8.25.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-RVX]
