@@ -46,11 +46,11 @@ build-mode = "both"
 arch = "both"
 excluded-patches = "'Dark theme'"
 patches-version = "dev"
-version = "8.25.53"
+version = "8.28.51"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
