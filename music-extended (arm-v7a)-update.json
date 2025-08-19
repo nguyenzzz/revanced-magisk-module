@@ -1,6 +1,6 @@
 {
-  "version": "v8.28.51 (patches dev.4)",
-  "versionCode": 31,
-  "zipUrl": "https://github.com/nguyenzzz/revanced-magisk-module/releases/download/31/music-revanced-extended-magisk-v8.28.51-arm-v7a.zip",
+  "version": "v8.28.51 (patches dev.5)",
+  "versionCode": 33,
+  "zipUrl": "https://github.com/nguyenzzz/revanced-magisk-module/releases/download/33/music-revanced-extended-magisk-v8.28.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/nguyenzzz/revanced-magisk-module/update/build.md"
 }
