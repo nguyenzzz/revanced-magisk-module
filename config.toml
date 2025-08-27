@@ -48,8 +48,8 @@ build-mode = "apk"
 arch = "both"
 excluded-patches = "'Dark theme'"
 patches-version = "dev"
-patcher-args = "-e 'Change package name' -OpackageName=com.hiby.music"
-version = "8.29.56"
+patcher-args = "-e 'GmsCore support' -OpackageNameYouTubeMusic=com.hiby.music"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
