@@ -1,4 +1,3 @@
-Music-Extended (arm64-v8a): 8.30.54  
 Music-Extended (arm-v7a): 8.30.54  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -12,4 +11,4 @@ Patches: anddea/patches-3.12.0-dev.12.rvp
 
 Skipped:  
 Patches: ReVanced/patches-5.34.0.rvp  
-Patches: ReVanced/patches-5.34.1-dev.3.rvp          
+Patches: ReVanced/patches-5.34.1-dev.3.rvp            
