@@ -41,7 +41,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 [Music-Extended]
 enabled = true
 app-name = "Music"
-patches-source = "anddea/revanced-patches"
+patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
