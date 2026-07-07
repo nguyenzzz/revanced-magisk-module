@@ -67,7 +67,7 @@ version = "11.81.0-release.0"
 include-stock = "split"
 
 [GooglePhotos]
-app-name = "Music"
+app-name = "Photos"
 patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "De-Vanced"
