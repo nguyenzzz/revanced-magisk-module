@@ -68,7 +68,6 @@ build-mode = "apk"
 include-stock = "split"
 
 [GooglePhotos]
-enabled = false
 app-name = "GooglePhotos"
 patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
