@@ -50,11 +50,12 @@ rv-brand = "Morphe"
 build-mode = "apk"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
+patches-version = "dev"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 archive-dlurl = "https://archive.org/download/hoctap-apks/apks/com.reddit.frontpage"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 dpi = "120-640dpi"
-version = "2026.29.0"
+version = "experimental"
 
 [Twitter]
 patches-source = "crimera/piko"
@@ -65,7 +66,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 build-mode = "apk"
-version = "12.11.0-release.0"
+version = "experimental"
 include-stock = "split"
 
 [GooglePhotos]
