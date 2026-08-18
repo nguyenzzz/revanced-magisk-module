@@ -44,7 +44,6 @@ dpi = "120-640dpi"
 
 [GooglePhotos]
 build-mode = "apk"
-arch = "arm64-v8a"
 included-patches = "'Enable DCIM folders backup control'"
 patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
