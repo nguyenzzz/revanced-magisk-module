@@ -1,4 +1,4 @@
-GooglePhotos: 7.80.0.929302933  
+GooglePhotos: 7.92.0.977185651  
 Music-Morphe: 9.15.51  
 Reddit-Morphe: 2026.37.0  
 YouTube-Morphe: 21.13.164  
@@ -14,7 +14,7 @@ Patches: crimera/piko-newx/patches-3.23.3.mpp
 Patches: MorpheApp/morphe-patches/patches-1.43.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.43.0)
 
-Patches: RookieEnough/De-Vanced/patches-1.4.0.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.0)
+Patches: RookieEnough/De-Vanced/patches-1.4.1.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.1)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-1.16.0-all.jar    
