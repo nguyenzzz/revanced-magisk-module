@@ -1,5 +1,6 @@
 GooglePhotos: 7.92.0.977185651  
 Music-Morphe: 9.15.51  
+Reddit-Morphe: 2026.38.0  
 Twitter: 12.27.0-prod.01  
 YouTube-Morphe: 21.16.256  
 
