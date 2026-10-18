@@ -15,7 +15,6 @@ build-mode = "apk"
 excluded-patches = "'Custom branding' 'Theme'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-enable-update-checks = true
 
 [Music-Morphe]
 app-name = "Music"
@@ -27,7 +26,6 @@ arch = "arm64-v8a"
 excluded-patches = "'Custom branding' 'Theme'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-enable-update-checks = true
 
 [Reddit-Morphe]
 app-name = "Reddit"
@@ -48,7 +46,6 @@ rv-brand = "DeVanced"
 cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
-enable-update-checks = true
 
 [Twitter]
 patches-source = "crimera/piko-newx"
@@ -56,7 +53,6 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 archive-dlurl = "https://archive.org/download/hoctap-apks/apks/com.twitter.android"
 version = "latest"
-enable-update-checks = true
 
 [Music]
 enabled = false
