@@ -8,39 +8,42 @@ parallel-jobs = 1
 
 [YouTube-Morphe]
 app-name = "YouTube"
-build-mode = "both"
+build-mode = "apk"
+excluded-patches = "'Custom branding' 'Theme'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-enable-update-checks = true
+enable-update-checks = false
 
 [Music-Morphe]
 app-name = "Music"
-build-mode = "both"
-arch = "both"
+build-mode = "apk"
+arch = "arm64-v8a"
+excluded-patches = "'Custom branding' 'Theme'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-enable-update-checks = true
+enable-update-checks = false
 
 [Reddit-Morphe]
 app-name = "Reddit"
 build-mode = "apk"
+version = "experimental"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+archive-dlurl = "https://archive.org/download/hoctap-apks/apks/com.reddit.frontpage"
 dpi = "120-640dpi"
-enable-update-checks = true
+enable-update-checks = false
 
 [GooglePhotos]
-build-mode = "both"
+build-mode = "apk"
+included-patches = "'Enable DCIM folders backup control'"
 patches-source = "RookieEnough/De-Vanced"
 rv-brand = "DeVanced"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
-enable-update-checks = true
+enable-update-checks = false
 
 [Twitter]
 patches-source = "crimera/piko-newx"
 rv-brand = "Piko"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 version = "latest"
-included-patches = "'NewX: Restore Twitter branding'"
-enable-update-checks = true
+enable-update-checks = false
