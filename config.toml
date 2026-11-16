@@ -34,11 +34,10 @@ enable-update-checks = false
 
 [GooglePhotos]
 build-mode = "apk"
-included-patches = "'Enable DCIM folders backup control'"
-patches-source = "RookieEnough/De-Vanced"
-rv-brand = "DeVanced"
+#included-patches = "'Enable DCIM folders backup control'"
+patches-source = "Akash-Sriram/morphe-google-photos"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
+archive-dlurl = "https://archive.org/download/hoctap-apks/apks/com.google.android.apps.photos"
 enable-update-checks = false
 
 [Twitter]
