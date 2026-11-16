@@ -38,6 +38,7 @@ build-mode = "apk"
 patches-source = "Akash-Sriram/morphe-google-photos"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/hoctap-apks/apks/com.google.android.apps.photos"
+version = "latest"
 enable-update-checks = false
 
 [Twitter]
