@@ -34,7 +34,7 @@ enable-update-checks = false
 
 [GooglePhotos]
 build-mode = "apk"
-#included-patches = "'Enable DCIM folders backup control'"
+excluded-patches = "'AMOLED dark theme'"
 patches-source = "Akash-Sriram/morphe-google-photos"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/hoctap-apks/apks/com.google.android.apps.photos"
