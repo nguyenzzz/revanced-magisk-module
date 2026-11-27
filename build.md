@@ -22,4 +22,4 @@ Patches: MorpheApp/morphe-patches/patches-2.4.0.mpp
 Skipped:  
 Patches: Akash-Sriram/morphe-google-photos/patches-1.18.0.mpp  
 Patches: MorpheApp/morphe-patches/patches-2.4.0.mpp  
-Patches: crimera/piko-newx/patches-3.75.0.mpp      
+Patches: crimera/piko-newx/patches-3.75.0.mpp    
